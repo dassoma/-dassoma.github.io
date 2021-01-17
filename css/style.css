@@ -1,5 +1,8 @@
 /*-- //arrow-animation --*/
-
+.strong{
+    font-weight: 700;
+    color: rgb(94, 91, 91);
+}
 /* menu */
 
 .menu-body {
@@ -238,7 +241,7 @@ p {
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 1.9;
-    color: #999;
+    color: rgb(94, 91, 91);
 }
 
 ul,
